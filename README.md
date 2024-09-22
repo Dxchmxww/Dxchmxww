@@ -48,3 +48,7 @@
 📫 How to Reach Me<br>
 Email: wannarathsakol@gmail.com<br>
 GitHub: https://github.com/Dxchmxww
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dxchmxww)](https://github.com/Dxchmxww/github-readme-stats)
