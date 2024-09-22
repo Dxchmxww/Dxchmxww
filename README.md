@@ -16,9 +16,9 @@ Cloud Services: Microsoft Azure
 
 
 🚀 Projects
-- CareYou Application:
-   A two-sided platform for elders and caregivers that manages pill reminders, appointments, and notifications.
-  Backend: Built using Node.js for the backend and Microsoft   Azure for database management.
+- CareYou Application:\n
+   A two-sided platform for elders and caregivers that manages pill reminders, appointments, and notifications.\n
+  Backend: Built using Node.js for the backend and Microsoft   Azure for database management.\n
   Frontend: Developed with Dart for user interfaces.
 
 - BlueMoon Website:
