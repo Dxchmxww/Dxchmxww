@@ -45,10 +45,16 @@
    A web application designed for purchasing and learning about various types of trees.<br>
    Frontend: Designed intuitive wireframes using Figma and developed responsive front-end components with React, HTML, and CSS for seamless performance across devices.
 <br>
+
+
 📫 How to Reach Me<br>
 Email: wannarathsakol@gmail.com<br>
 GitHub: https://github.com/Dxchmxww
 
-
-
+<br>
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dxchmxww)](https://github.com/Dxchmxww/github-readme-stats)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxchmxww&layout=compact)](https://github.com/Dxchmxww/github-readme-stats)
+
