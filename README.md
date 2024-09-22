@@ -1,7 +1,8 @@
-### 👋 Hi there, I'm Wannarath Temular 👋
+# 👋 Hi there, I'm Wannarath Temular 👋
 
 <br>
-👨‍💻 About Me<br>
+
+## 👨‍💻 About Me<br>
 <br>
    I am a Computer Science student at the Bachelor of School of Information Technology, with a growing interest in backend development. While I am still a beginner, I have gained hands-on experience in a few development projects and am eager to learn more. I am passionate about building my skills in both frontend and backend technologies, and I'm excited to gain real-world experience. <br>
 <br>
@@ -10,7 +11,7 @@
 <br>
 <br>
 
-💼 What I Do <br>
+## 💼 What I Do <br>
 
 - Backend Development: Node.js, TypeScript, Java <br>
 
@@ -21,7 +22,8 @@
 - Cloud Services: Microsoft Azure <br>
 <br>
 <br>
-🚀 Projects<br>
+
+## 🚀 Projects<br>
 
 
 - CareYou Application:<br>
@@ -47,14 +49,6 @@
 <br>
 
 
-📫 How to Reach Me<br>
-Email: wannarathsakol@gmail.com<br>
-GitHub: https://github.com/Dxchmxww
 
-<br>
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dxchmxww)](https://github.com/Dxchmxww/github-readme-stats)
-<br>
-<br>
+## Languages I Use Most 🌐
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxchmxww&layout=compact)](https://github.com/Dxchmxww/github-readme-stats)
-
