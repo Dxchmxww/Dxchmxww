@@ -1,15 +1,5 @@
 # 👋 Hi there, I'm Wannarath Temular 👋
 
-<br>
-
-## 👨‍💻 About Me<br>
-<br>
-   I am a Computer Science student at the Bachelor of School of Information Technology, with a growing interest in backend development. While I am still a beginner, I have gained hands-on experience in a few development projects and am eager to learn more. I am passionate about building my skills in both frontend and backend technologies, and I'm excited to gain real-world experience. <br>
-<br>
-   I value collaboration and am always open to learning from others while contributing to team projects. My goal is to further develop my technical abilities and apply them in practical, dynamic settings.
-<br>
-<br>
-<br>
 
 ## 💼 What I Do <br>
 
